@@ -1,2 +1,2 @@
-# user-authentication
-Registration + Login + User Based Access
+# user-authentication using Angular
+Registration + Login + User-Based Access
